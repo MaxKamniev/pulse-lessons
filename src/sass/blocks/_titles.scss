@@ -1,0 +1,14 @@
+.section-title {
+    color: #0d0d0d;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    &_left {
+        text-align: left;
+        color: #fff;
+        max-width: 800px;
+        font-size: 36px;
+        line-height: 120%;
+    }
+}
